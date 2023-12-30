@@ -170,5 +170,11 @@
     "don't chase, attract",
     "in the end, it is not the mountain that you must master, but yourself\n\n- Brianna Wiest",
     "focus on the solution, not the problem\n\n- Jim Rohn"
+  ],
+  "motivations2" : [
+    { "text" : "in the end, it is not the mountain that you must master, but yourself\n",
+        "author" : "Brianna Wiest",
+        "link" : "BriannaWiest"
+    }
   ]
 }
