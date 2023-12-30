@@ -1,11 +1,10 @@
-
 {
-"version" : 1005,
+"version" : 1006,
 "motivations" :
   [
-      ["text" : "in the end, it is not the mountain that you must master, but yourself\n",
+      {"text" : "in the end, it is not the mountain that you must master, but yourself\n",
         "author" : "Brianna Wiest",
         "link" : "BriannaWiest"
-    ]
+    }
   ]
 }
