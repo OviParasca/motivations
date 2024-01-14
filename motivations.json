@@ -1,5 +1,5 @@
 {
-"version" : 1005,
+"version" : 1006,
 "motivations" :
   [
     "Life is better at the beach\n☀️🌊",
@@ -7,15 +7,15 @@
     "I believe in my dreams,\nmyself,\nand all that I am",
     "I love myself for who I am",
     "I create my own happiness",
-    "my life is filled with abundance of goodness",
-    "my challenges are actually opportunities",
+    "My life is filled with abundance of goodness",
+    "My challenges are actually opportunities",
     "I am beautiful just the way I am",
     "I am successful",
     "I am confident\n💯",
     "I am powerful",
     "I am strong",
     "I am getting better and better every day",
-    "all I need is within me right now",
+    "All I need is within me right now",
     "I wake up motivated",
     "I am an unstoppable force of nature",
     "I am a living, breathing example of motivation",
@@ -23,41 +23,41 @@
     "I am having a positive and inspiring impact on the people I come into contact with",
     "I am inspiring people through my work",
     "I’m rising above the thoughts that are trying to make me angry or afraid",
-    "today is a phenomenal day",
+    "Today is a phenomenal day",
     "I am grateful for everything I have in my life",
     "I am filled with focus",
     "I am independent and self-sufficient",
     "I feel more grateful each day",
-    "my soul radiates from the inside and warms the souls of others",
+    "My soul radiates from the inside and warms the souls of others",
     "I am surrounded by people who love me and value me",
     "I am the architect of my life.\nI build its foundation and choose its contents",
-    "today, I am brimming with energy and overflowing with joy",
-    "my body is healthy,\nmy mind is brilliant,\nmy soul is tranquil",
+    "Today, I am brimming with energy and overflowing with joy",
+    "My body is healthy,\nmy mind is brilliant,\nmy soul is tranquil",
     "I am superior to negative thoughts and low actions",
     "I have been given endless talents which I begin to utilize today",
     "I forgive those who have harmed me in my past and peacefully detach from them",
     "a river of compassion washes away my anger and replaces it with love",
     "I possess the qualities needed to be extremely successful",
-    "my life is growing, expanding, and thriving",
-    "creative energy surges through me and leads me to new and brilliant ideas",
-    "happiness is a choice.\nAnd I choose to be happy",
-    "my ability to conquer my challenges is limitless,\nmy potential to succeed is infinite",
+    "My life is growing, expanding, and thriving",
+    "Creative energy surges through me and leads me to new and brilliant ideas",
+    "Happiness is a choice.\nAnd I choose to be happy",
+    "My ability to conquer my challenges is limitless,\nmy potential to succeed is infinite",
     "I am courageous and I stand up for myself",
-    "my thoughts are filled with positivity and my life is plentiful with prosperity",
-    "today, I abandon my old habits and take up new, more positive ones",
-    "many people look up to me and recognize my worth;\nI am admired",
+    "My thoughts are filled with positivity and my life is plentiful with prosperity",
+    "Today, I abandon my old habits and take up new, more positive ones",
+    "Many people look up to me and recognize my worth;\nI am admired",
     "I am blessed with an incredible family and wonderful friends",
     "I acknowledge my own\nself-worth, my confidence is soaring",
-    "everything that is happening now is happening for my ultimate good",
+    "Everything that is happening now is happening for my ultimate good",
     "I am a powerhouse,\nI am indestructible",
-    "my future is an ideal projection of what I envision now",
-    "my efforts are being supported by the universe,\nmy dreams manifest into reality before my eyes",
+    "My future is an ideal projection of what I envision now",
+    "My efforts are being supported by the universe,\nmy dreams manifest into reality before my eyes",
     "I radiate beauty,\ncharm,\nand grace",
-    "my obstacles are moving out of my way,\nmy path is carved towards greatness",
+    "My obstacles are moving out of my way,\nmy path is carved towards greatness",
     "I wake up today with strength in my heart and clarity in my mind",
-    "my fears of tomorrow are simply melting away",
+    "My fears of tomorrow are simply melting away",
     "I am at peace with all that has happened, is happening, and will happen",
-    "my life is just beginning",
+    "My life is just beginning",
     "I affirm and encourage others, as I do myself",
     "I am held and supported by those who love me",
     "I am loved and worthy",
@@ -78,103 +78,422 @@
     "I've got this!",
     "I deserve love and happiness!",
     "I make a difference in the world by simply existing in it",
-    "the Four Agreements\n\nBe Impeccable With Your Word.\nDon't Take Anything Personally.\nDon't Make Assumptions.\nAlways Do Your Best.\n\n\n",
+    "The Four Agreements:\n\nBe Impeccable With Your Word.\nDon't Take Anything Personally.\nDon't Make Assumptions.\nAlways Do Your Best.\n\n\n",
     "I am grateful for my Parents,\nmy siblings,\nand my pets 🐿️",
-    "today, I will succeed",
-    "life is beautiful",
-    "my hard work will pay off",
-    "today is an opportunity to grow and learn",
+    "Today, I will succeed",
+    "Life is beautiful",
+    "My hard work will pay off",
+    "Today is an opportunity to grow and learn",
     "I deserve the love I exhibit",
-    "protect your peace",
-    "you will find a way",
-    "celebrate the little victories",
-    "you are always becoming more",
-    "small steps still move you forward",
-    "progress is progress,\n no matter how big or small",
-    "don't wait for the right opportunity,\n create it.\n\n- George Bernard Shaw",
-    "sometimes the little things in life mean the most.\n\n - Ellen Hopskins",
-    "discipline is the bridge between goals and accomplishment.\n\n- Jim Rohn",
-    "don't be scared, we're only falling.\n\n@CannonsTheBand",
-    "getting comfortable with waiting a little longer for the things you deserve\n\n@_notesbabe",
+    "Protect your peace",
+    "You will find a way",
+    "Celebrate the little victories",
+    "You are always becoming more",
+    "Small steps still move you forward",
+    "Progress is progress,\n no matter how big or small",
+    "Don't wait for the right opportunity,\n create it.\n\n- George Bernard Shaw",
+    "Sometimes the little things in life mean the most.\n\n - Ellen Hopskins",
+    "Discipline is the bridge between goals and accomplishment.\n\n- Jim Rohn",
+    "Don't be scared, we're only falling.\n\n@CannonsTheBand",
+    "Getting comfortable with waiting a little longer for the things you deserve\n\n@_notesbabe",
     "I am proud of you",
-    "make excuses or\nmake changes.\n the choice is yours",
-    "nothing is impossbile when you believe in yourself",
-    "we are not victims of our past traumas, we are students of them.\n\n@HumbleThePoet",
+    "Make excuses or\nmake changes.\n the choice is yours",
+    "Nothing is impossbile when you believe in yourself",
+    "We are not victims of our past traumas, we are students of them.\n\n@HumbleThePoet",
     "I hope you win the war you tell no one about",
-    "dear everyone who is working on a thing... whatever that 'thing' may be, good luck with the 'thing'. you can do the 'thing'. you WILL do the 'thing'. you just have to do the 'thing'.\nbest wishes,\nsomeone who is also doing a 'thing'\n\n@darkmatterthinktank",
-    "if you want more love in your life then start loving more\n\n@HumbleThePoet",
-    "you are somebody's reason to smile",
-    "we con't control how much love we receive or experience from others.\n nbut we can completely control how much love we share and send out into the world\n\n@HumbleThePoet",
+    "Dear everyone who is working on a thing... whatever that 'thing' may be, good luck with the 'thing'. you can do the 'thing'. you WILL do the 'thing'. you just have to do the 'thing'.\nbest wishes,\nsomeone who is also doing a 'thing'\n\n@darkmatterthinktank",
+    "If you want more love in your life then start loving more\n\n@HumbleThePoet",
+    "You are somebody's reason to smile",
+    "We con't control how much love we receive or experience from others.\n nbut we can completely control how much love we share and send out into the world\n\n@HumbleThePoet",
     "I want to work on myself with you by my side and I want you to work on yourself with me by your side. Life isn't easy, let's do this together\n\n@love.quotes",
-    "there will always be something between us.\n\nwhenever I look up at the moon and the stars,\nI'll think of you",
-    "that's all we can do: move on with the new knowledge and wisdom we acquire from the mistakes of our past\n\n@HumbleThePoet",
-    "you can change your location, meet new people, and still have the same old problems.\nto truly change your life, you need to look inward, get to know and love yourself, and heal the trauma and dense conditioning in your mind.\nthis is how you get to the root. internal changes have a significant external impact.\n\n- Yung Pueblo",
-    "the meaning of life is to find your gift. the purpose of life is to give it away.\n\n- Pablo Picasso",
-    "even though we think we're after happiness, we're actually trying to find whatever we're most used to.\n\n- Brianna West",
-    "always carry love in your heart for people. sometimes you might not be in alignment anymore, or speak but I want everyone to know who's come into my life that you are loved and I'm always here if you need me\n❤️",
-    "thinking can be a very lonely business\n\n- Shane Parrish",
-    "if someone makes you happy, make them happier!",
-    "a person can be in love and also unprepared to care for that love\n\n- Yung Pueblo",
-    "love is interrupted by the pain we carry. it is easy to bame love itself for the hurt we feel, but all love does is upon us up; the hurt itself comes from the heavy conditioning ann ill-fated patterns that stop us from showing up in a compassionate manner. one can feel love for another, but also have a variety of attachments that block their appreciation for that amazing connection that is riht in front of them\n\n- Yung Pueblo",
-    "love itself invites healing. it creates a path for two people to not only blossom in self-awareness but to develop their emotional maturity. love is a powerful light, if you are immersed in it and ready to grow, it will show you more of yourself. love is not just for your soothing; it is an engine of evolution. the greatest gift partners can give each other is a continuous commitment to their own personal healing\n\n- Yung Pueblo",
-    "when you're a part of each other's growth, you don't grow apart from each other\n\n- Jay Shetty",
-    "we cannot become what we want by remaining what we are",
-    "don't let your mind bully your body",
-    "love yourself first, because that's who you'll be spending the rest of your life with",
-    "guys aren't complicated, and neither are girls. we're just scared\n\n@HumbleThePoet",
-    "regrets belong to the past\n\n- Marlon Brando",
-    "stop thinking and end your problems\n\n- Lao Tzu",
-    "isn't it funny how day by day nothing changes, but when you look back everything is different",
-    "make You proud of You",
+    "There will always be something between us.\n\nwhenever I look up at the moon and the stars,\nI'll think of you",
+    "That's all we can do: move on with the new knowledge and wisdom we acquire from the mistakes of our past\n\n@HumbleThePoet",
+    "You can change your location, meet new people, and still have the same old problems.\nto truly change your life, you need to look inward, get to know and love yourself, and heal the trauma and dense conditioning in your mind.\nthis is how you get to the root. internal changes have a significant external impact.\n\n- Yung Pueblo",
+    "The meaning of life is to find your gift. the purpose of life is to give it away.\n\n- Pablo Picasso",
+    "Even though we think we're after happiness, we're actually trying to find whatever we're most used to.\n\n- Brianna West",
+    "Always carry love in your heart for people. sometimes you might not be in alignment anymore, or speak but I want everyone to know who's come into my life that you are loved and I'm always here if you need me\n❤️",
+    "Thinking can be a very lonely business\n\n- Shane Parrish",
+    "If someone makes you happy, make them happier!",
+    "A person can be in love and also unprepared to care for that love\n\n- Yung Pueblo",
+    "Love is interrupted by the pain we carry. it is easy to bame love itself for the hurt we feel, but all love does is upon us up; the hurt itself comes from the heavy conditioning ann ill-fated patterns that stop us from showing up in a compassionate manner. one can feel love for another, but also have a variety of attachments that block their appreciation for that amazing connection that is riht in front of them\n\n- Yung Pueblo",
+    "Love itself invites healing. it creates a path for two people to not only blossom in self-awareness but to develop their emotional maturity. love is a powerful light, if you are immersed in it and ready to grow, it will show you more of yourself. love is not just for your soothing; it is an engine of evolution. the greatest gift partners can give each other is a continuous commitment to their own personal healing\n\n- Yung Pueblo",
+    "When you're a part of each other's growth, you don't grow apart from each other\n\n- Jay Shetty",
+    "We cannot become what we want by remaining what we are",
+    "Don't let your mind bully your body",
+    "Love yourself first, because that's who you'll be spending the rest of your life with",
+    "Guys aren't complicated, and neither are girls. we're just scared\n\n@HumbleThePoet",
+    "Regrets belong to the past\n\n- Marlon Brando",
+    "Stop thinking and end your problems\n\n- Lao Tzu",
+    "Isn't it funny how day by day nothing changes, but when you look back everything is different",
+    "Make You proud of You",
     "🙂",
     "♥️",
-    "if you don't take risks, nothing will change",
-    "what you seek is also seeking you\n\n@findingpoeta",
-    "everything comes at the right time\n\n@findingpoeta",
-    "do more things that make you happy\n\n@findingpoeta",
-    "enjoy the present\n\n@findingpoeta",
-    "you are strong,\nsmart,\nand you got this!",
-    "if you can't find a way,\nmake your own\n\n@findingpoeta",
-    "trust what trusts you\n\n@findingpoeta",
-    "kindness is always remembered\n\n@findingpoeta",
-    "love all that you are\n\n@findingpoeta",
-    "don't be perfect,\nbe real\n\n@findingpoeta",
-    "if it matters,\ndon't let go\n\n@findingpoeta",
-    "go easy\n\n@findingpoeta",
-    "true connections always last\n\n@findingpoeta",
-    "be different,\nit's beautiful\n\n@findingpoeta",
-    "the next chapter of your life is going to be so amazing",
-    "what if it's a blessing in disguise?\n\n@findingpoeta",
-    "what if you are meant to succeed?\n\n@findingpoeta",
-    "what if yoir dream is also seeking you?\n\n@findingpoeta",
-    "what if it works out exactly as planned?\n\n@findingpoeta",
-    "what if you have what it takes?\n\n@findingpoeta",
-    "come back home to yourself\n\n@findingpoeta",
-    "there is no one right way to heal\n\n@findingpoeta",
-    "trust the process\n\n@findingpoeta",
-    "you never fail,\nonly learn\n\n@findingpoeta",
-    "you are always growing\n\n@findingpoeta",
-    "there is magic outside your comfort zone\n\n@findingpoeta",
-    "taking a break is not giving up\n\n@findingpoeta",
-    "the beginning is a perfect place to start\n\n@findingpoeta",
-    "the best way out is through\n\n@findingpoeta",
-    "the right people always stay\n\n@findingpoeta",
-    "pain isn't permanent\n\n@findingpoeta",
-    "growth happens even when you don't see it\n\n@findingpoeta",
-    "real isn't perfect, perfect isn't real\n\n@findingpoeta",
-    "tomorrow can always be better\n\n@findingpoeta",
-    "it's okay to be where you are\n\n@findingpoeta",
-    "small progress still matters\n\n@findingpoeta",
-    "if you spend your time chasing butterflies, they'll fly away. but if you spend your time making a beautiful garden, the butterflies will come to you\n\n@InvestingGoal",
-    "when you focus on improving yourself, everything you want will come to you. we attract based on who we are, not what we want\n\n@InvestingGoal",
-    "don't chase, attract",
-    "in the end, it is not the mountain that you must master, but yourself\n\n- Brianna Wiest",
-    "focus on the solution, not the problem\n\n- Jim Rohn"
+    "If you don't take risks, nothing will change",
+    "What you seek is also seeking you\n\n@findingpoeta",
+    "Everything comes at the right time\n\n@findingpoeta",
+    "Do more things that make you happy\n\n@findingpoeta",
+    "Enjoy the present\n\n@findingpoeta",
+    "You are strong,\nsmart,\nand you got this!",
+    "If you can't find a way,\nmake your own\n\n@findingpoeta",
+    "Trust what trusts you\n\n@findingpoeta",
+    "Kindness is always remembered\n\n@findingpoeta",
+    "Love all that you are\n\n@findingpoeta",
+    "Don't be perfect,\nbe real\n\n@findingpoeta",
+    "If it matters,\ndon't let go\n\n@findingpoeta",
+    "Go easy\n\n@findingpoeta",
+    "True connections always last\n\n@findingpoeta",
+    "Be different,\nit's beautiful\n\n@findingpoeta",
+    "The next chapter of your life is going to be so amazing",
+    "What if it's a blessing in disguise?\n\n@findingpoeta",
+    "What if you are meant to succeed?\n\n@findingpoeta",
+    "What if yoir dream is also seeking you?\n\n@findingpoeta",
+    "What if it works out exactly as planned?\n\n@findingpoeta",
+    "What if you have what it takes?\n\n@findingpoeta",
+    "Come back home to yourself\n\n@findingpoeta",
+    "There is no one right way to heal\n\n@findingpoeta",
+    "Trust the process\n\n@findingpoeta",
+    "You never fail,\nonly learn\n\n@findingpoeta",
+    "You are always growing\n\n@findingpoeta",
+    "There is magic outside your comfort zone\n\n@findingpoeta",
+    "Taking a break is not giving up\n\n@findingpoeta",
+    "The beginning is a perfect place to start\n\n@findingpoeta",
+    "The best way out is through\n\n@findingpoeta",
+    "The right people always stay\n\n@findingpoeta",
+    "Pain isn't permanent\n\n@findingpoeta",
+    "Growth happens even when you don't see it\n\n@findingpoeta",
+    "Real isn't perfect, perfect isn't real\n\n@findingpoeta",
+    "Tomorrow can always be better\n\n@findingpoeta",
+    "It's okay to be where you are\n\n@findingpoeta",
+    "Small progress still matters\n\n@findingpoeta",
+    "If you spend your time chasing butterflies, they'll fly away. but if you spend your time making a beautiful garden, the butterflies will come to you\n\n@InvestingGoal",
+    "When you focus on improving yourself, everything you want will come to you. we attract based on who we are, not what we want\n\n@InvestingGoal",
+    "Don't chase, attract",
+    "In the end, it is not the mountain that you must master, but yourself\n\n- Brianna Wiest",
+    "Focus on the solution, not the problem\n\n- Jim Rohn",
+    "In the gym, the weight doesn't get easier to lift;\nYou get stronger. In life, events don't get easier to handle; you become better equipped to handle them.\n Keep Growing\n\n- Vex King",
+    "You are no one's backup plan.\nChoose people who choose you.\nPour into people who pour into you",
+    "It was never about finding your other half. It was about remembering your wholeness and then finding someone that reflects it back to you.\n\n@raise.the.vibe.tribe",
+    "Growth is not linear.\nRelapses are part of the process, not the end of progress.\nCelebrate every single win, practive discipline and grace, and please, just keep going.\n\n@WeTheUrban",
+    "I embrace the unknown with an open heart and a fearless spirit",
+    "You deserve nice things. You deserve to be happy. You deserve to be heard. You deserve to be confident. You deserve to exist in nice places. You deserve to speak highly to yourself. You deserve to prioritize your well-being.\n\n @WeTheUrban",
+    "People make an effort when they want to.\n\n@WeTheUrban",
+    "Say it with me:\nEverything is going to be okay.\nEverything is going to work out.\n\n@WeTheUrban"",
+    "I'm just trying to get as close as possible to the happiest version of myself.\n\n@WeTheUrban",
+    "I found healing when I told Ego to lowe its voice and sit in the corner while I asked my wounds important questions.\n\n@WeTheUrban",
+    "Be with someone who is proud of you\n♥️",
+    "Wake up each day with a clean heart, renewed mind, and inspiration to succeed.\n\n@ThirdEyeThoughts",
+    "Getting lost is part of the journey.\n\n@findingpoeta",
+    "Stop creating competitions that don't exist.\n\n@thescatteredfeelings",
+    "Some things have to end\nfor better ones to begin.\n\n@thescatteredfeelings",
+    "You cannot see your reflection in boiling water. Similarly, you cannot see the truth in a state of anger. When the waters calm, clarity comes.\n\n@healing_out.loud",
+    "Forgive yourself for the bad decisions you've made, for the times you lacked belief, for the times you hurt others and yourself. Forgive yourself for all the mistakes you've made. What matters most is that you're willing to move forward with a better mindset.\n\n'Good Vibes, Good Life',\n- Vex King",
+    "It's not the years in your life that count but the life in your years.\n\n- Abraham Lincoln",
+    "When we are no longer able to change a situation, we are challenged to change ourselves.\n\n- Viktor Frankl\n@dailystoic",
+    "'Who hurt you?'\nMy own expectations",
+    "Don't expect the same in return, it will always hurt you.\n\n@the_darkstories",
+    "Acceptance is peace\n\n@wetheurban",
+    "Say it with me:\nThis year, I am unlocking profound levels of peace, abundance, and joy I didn't even know possible by any and all means necessary.\n\n@wetheurban",
+    "Don't compare your past with your present.",
+    "One of the more underrated ingredients for having a good life is a clear conscious.\n\n@thirdeyethoughts",
+    "Get back up when you fail. Celebrate behaving like a human.\n\n- Marcus Aurelius\n@dailystoic",
+    "The right choice isn't always easy.\n\n@findingpoeta",
+    "Self love is the best love.\n\n@findingpoeta",
+    "I am not perfect, but You make me perfect and beautiful in every way.\n Thank you!\n\n@poetscafe",
+    "Thank you for not forcing me to dim my light, instead you stand next to me and together we shine bright.\n\n-Jess Baird\n@wordsofajay",
+    "It took me a longe time to accept that I had to be loved the wrong way in order to know what being love the rigth way feels like.\n\n-Jess Baird\n@wordsofajay",
+    "Sweet man, thank you for trusting me enough to allow me inside your home-shaped heart.\n\n-Jess Baird\n@wordsofajay",
+    "She wanted someone to love and so she fell for herself.\n\n@r.h.sin",
+    "Thinking about a future where we are together brings a [huge] smile to my face. I believe in our connection. I look forward to the possibility of building a life together.\n\n@poetscafe",
+    "The besr investment is yourself.\n\n@findingpoeta",
+    "Your direction matters more than your speed.\n\n@findingpoeta",
+    "Protect your peace.\n\n@findingpoeta",
+    "\"Time is a healer, life is a teacher\"\n\n- Ferry Corsten, Morgan Page, Cara Melín\n\"Wounded\"",
+    "\"Whenever I'm alone with you, You make me feel like I am whole again\"\n\n- The Cure\n\"Love Song\"",
+    "I have so much of you in my heart.\n\n- John Keats\n@touchmysense_",
+    "I love seeing you get excited about the things You love\n♥️\n\n@touchmysense_",
+    "You make my heart smile\n🙂\n\n@touchmysense_",
+    "How to stop time: kiss\nHow to travel in time: read\nHow to escape time: music\nHow to feel timeL write\nHow to release time: breathe\n\n@touchmysense_",
+    "Growth isn't linear.\n\n@findingpoeta",
+    "True happiness comes from within.\n\n@poetscafe",
+    "Everyone's journey is different.\n\n@poetscafe",
+    "Smiles can spread joy to others.\n\n@poetscafe",
+    "Every journey is one step at a time.\n\n@findingpoeta",
+    "Enjoy where you are\n\n@findingpoeta",
+    "Growth happens even when you don't see it\n\n@findingpoeta",
+    "Everything falls into place\n\n@findingpoeta",
+    "If it's meant for you, it will find yo.\n\n@findingpoeta",
+    "Flow more than you force\n\n@findingpoeta",
+    "Half the journey is the first step\n\n@findingpoeta"
   ],
   "motivations2" : [
-    { "text" : "in the end, it is not the mountain that you must master, but yourself\n",
+    { 
+        "text" : "in the end, it is not the mountain that you must master, but yourself\n",
         "author" : "Brianna Wiest",
         "link" : "BriannaWiest"
+    },
+    {
+        "text" : "In the gym, the weight doesn't get easier to lift;\nYou get stronger. In life, events don't get easier to handle; you become better equipped to handle them.\n Keep Growing",
+        "author" : "Vex King",
+        "link" : "vexking"
+    },
+    { "text" : "You are no one's backup plan.\nChoose people who choose you.\nPour into people who pour into you",
+        "author" : null,
+        "link" : null
+    },
+    { 
+        "text" : "It was never about finding your other half. It was about remembering your wholeness and then finding someone that reflects it back to you.",
+        "author" : "@raise.the.vibe.tribe",
+        "link" : "raise.the.vibe.tribe"
+    },
+    { 
+        "text" : "Growth is not linear.\nRelapses are part of the process, not the end of progress.\nCelebrate every single win, practive discipline and grace, and please, just keep going.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+    { 
+        "text" : "You deserve nice things. You deserve to be happy. You deserve to be heard. You deserve to be confident. You deserve to exist in nice places. You deserve to speak highly to yourself. You deserve to prioritize your well-being.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+    { 
+      "text" : "People make an effort when they want to.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "Say it with me:\nEverything is going to be okay.\nEverything is going to work out.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "I'm just trying to get as close as possible to the happiest version of myself.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "I found healing when I told Ego to lowe its voice and sit in the corner while I asked my wounds important questions.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "Be with someone who is proud of you\n♥️",
+      "author" : null,
+      "link" : null
+    },
+        { 
+      "text" : "Wake up each day with a clean heart, renewed mind, and inspiration to succeed.",
+      "author" : "@ThirdEyeThoughts",
+      "link" : "ThirdEyeThoughts"
+    },
+            { 
+      "text" : "Getting lost is part of the journey.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+            { 
+      "text" : "Stop creating competitions that don't exist.",
+      "author" : "@thescatteredfeelings",
+      "link" : "thescatteredfeelings"
+    },
+            { 
+      "text" : "Some things have to end\nfor better ones to begin.",
+      "author" : "@thescatteredfeelings",
+      "link" : "thescatteredfeelings"
+    },
+            { 
+      "text" : "You cannot see your reflection in boiling water. Similarly, you cannot see the truth in a state of anger. When the waters calm, clarity comes.",
+      "author" : "@healing_out.loud",
+      "link" : "healing_out.loud"
+    },
+    { 
+      "text" : "Forgive yourself for the bad decisions you've made, for the times you lacked belief, for the times you hurt others and yourself. Forgive yourself for all the mistakes you've made. What matters most is that you're willing to move forward with a better mindset.",
+      "author" : "'Good Vibes, Good Life', Vex King",
+      "link" : "vexking"
+    },
+    { 
+      "text" : "It's not the years in your life that count but the life in your years",
+      "author" : "Abraham Lincoln",
+      "link" : null
+    },
+    { 
+      "text" : "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author" : "Viktor Frankl, @dailystoic",
+      "link" : "dailystoic"
+    },
+    { 
+      "text" : "'Who hurt you?'\nMy own expectations",
+      "author" : null,
+      "link" : null
+    },
+    { 
+      "text" : "Don't expect the same in return, it will always hurt you.",
+      "author" : "@the_darkstories",
+      "link" : "the_darkstories"
+    },
+    { 
+      "text" : "Acceptance is peace",
+      "author" : "@wetheurban",
+      "link" : "wetheurban"
+    },
+    { 
+      "text" : "Say it with me:\nThis year, I am unlocking profound levels of peace, abundance, and joy I didn't even know possible by any and all means necessary.",
+      "author" : "@wetheurban",
+      "link" : "wetheurban"
+    },
+    { 
+      "text" : "Don't compare your past with your present.",
+      "author" : null,
+      "link" : null
+    },
+    { 
+      "text" : "One of the more underrated ingredients for having a good life is a clear conscious.",
+      "author" : "@thirdeyethoughts",
+      "link" : "thirdeyethoughts"
+    },
+    { 
+      "text" : "Get back up when you fail. Celebrate behaving like a human.",
+      "author" : "Marcus Aurelius, @dailystoic",
+      "link" : "dailystoic"
+    },
+    { 
+      "text" : "The right choice isn't always easy.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Self love is the best love.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "I am not perfect, but You make me perfect and beautiful in every way.\n Thank you!",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "Thank you for not forcing me to dim my light, instead you stand next to me and together we shine bright.",
+      "author" : "Jess Baird, @wordsofajay",
+      "link" : "wordsofajay"
+    },
+    { 
+      "text" : "It took me a longe time to accept that I had to be loved the wrong way in order to know what being love the rigth way feels like.",
+      "author" : "Jess Baird, @wordsofajay",
+      "link" : "wordsofajay"
+    },
+    { 
+      "text" : "Sweet man, thank you for trusting me enough to allow me inside your home-shaped heart.",
+      "author" : "Jess Baird, @wordsofajay",
+      "link" : "wordsofajay"
+    },
+    { 
+      "text" : "",
+      "author" : "@r.h.sin",
+      "link" : "r.h.sin"
+    },
+    { 
+      "text" : "Thinking about a future where we are together brings a [huge] smile to my face. I believe in our connection. I look forward to the possibility of building a life together.",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "The best investment is yourself",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Your direction matters more than your speed.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Protect your peace.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "\"Time is a healer, life is a teacher\"",
+      "author" : "Ferry Corsten, Morgan Page, Cara Melín\n\"Wounded\"",
+      "link" : null
+    },
+    { 
+      "text" : "\"Whenever I'm alone with you, You make me feel like I am whole again\""
+      "author" : "The Cure, \"Love Song\"",
+      "link" : null
+    },
+    { 
+      "text" : "I have so much of you in my heart",
+      "author" : "John Keats\n@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "I love seeing you get excited about the things You love\n♥️",
+      "author" : "@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "You make my heart smile\n🙂",
+      "author" : "@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "How to stop time: kiss\nHow to travel in time: read\nHow to escape time: music\nHow to feel timeL write\nHow to release time: breathe",
+      "author" : "@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "Growth isn't linear",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "True happiness comes from within.",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "Everyone's journey is different",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "Smiles can spread joy to others",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+        { 
+      "text" : "Every journey is one step at a time",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Enjoy where you are",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Growth happens even when you don't see it",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+        { 
+      "text" : "Everything falls into place",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+        { 
+      "text" : "If it's meant for you, it will find you",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+        { 
+      "text" : "Flow more than you force",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+            { 
+      "text" : "Half the journey is the first step",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
     }
   ]
 }
