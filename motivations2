@@ -1,0 +1,276 @@
+{
+"version" : 1006,
+"motivations" :
+  [
+  "motivations2" : [
+    { 
+        "text" : "in the end, it is not the mountain that you must master, but yourself\n",
+        "author" : "Brianna Wiest",
+        "link" : "BriannaWiest"
+    },
+    {
+        "text" : "In the gym, the weight doesn't get easier to lift;\nYou get stronger. In life, events don't get easier to handle; you become better equipped to handle them.\n Keep Growing",
+        "author" : "Vex King",
+        "link" : "vexking"
+    },
+    { "text" : "You are no one's backup plan.\nChoose people who choose you.\nPour into people who pour into you",
+        "author" : null,
+        "link" : null
+    },
+    { 
+        "text" : "It was never about finding your other half. It was about remembering your wholeness and then finding someone that reflects it back to you.",
+        "author" : "@raise.the.vibe.tribe",
+        "link" : "raise.the.vibe.tribe"
+    },
+    { 
+        "text" : "Growth is not linear.\nRelapses are part of the process, not the end of progress.\nCelebrate every single win, practive discipline and grace, and please, just keep going.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+    { 
+        "text" : "You deserve nice things. You deserve to be happy. You deserve to be heard. You deserve to be confident. You deserve to exist in nice places. You deserve to speak highly to yourself. You deserve to prioritize your well-being.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+    { 
+      "text" : "People make an effort when they want to.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "Say it with me:\nEverything is going to be okay.\nEverything is going to work out.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "I'm just trying to get as close as possible to the happiest version of myself.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "I found healing when I told Ego to lowe its voice and sit in the corner while I asked my wounds important questions.",
+        "author" : "@wetheurban",
+        "link" : "wetheurban"
+    },
+        { 
+      "text" : "Be with someone who is proud of you\n♥️",
+      "author" : null,
+      "link" : null
+    },
+        { 
+      "text" : "Wake up each day with a clean heart, renewed mind, and inspiration to succeed.",
+      "author" : "@ThirdEyeThoughts",
+      "link" : "ThirdEyeThoughts"
+    },
+            { 
+      "text" : "Getting lost is part of the journey.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+            { 
+      "text" : "Stop creating competitions that don't exist.",
+      "author" : "@thescatteredfeelings",
+      "link" : "thescatteredfeelings"
+    },
+            { 
+      "text" : "Some things have to end\nfor better ones to begin.",
+      "author" : "@thescatteredfeelings",
+      "link" : "thescatteredfeelings"
+    },
+            { 
+      "text" : "You cannot see your reflection in boiling water. Similarly, you cannot see the truth in a state of anger. When the waters calm, clarity comes.",
+      "author" : "@healing_out.loud",
+      "link" : "healing_out.loud"
+    },
+    { 
+      "text" : "Forgive yourself for the bad decisions you've made, for the times you lacked belief, for the times you hurt others and yourself. Forgive yourself for all the mistakes you've made. What matters most is that you're willing to move forward with a better mindset.",
+      "author" : "'Good Vibes, Good Life', Vex King",
+      "link" : "vexking"
+    },
+    { 
+      "text" : "It's not the years in your life that count but the life in your years",
+      "author" : "Abraham Lincoln",
+      "link" : null
+    },
+    { 
+      "text" : "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author" : "Viktor Frankl, @dailystoic",
+      "link" : "dailystoic"
+    },
+    { 
+      "text" : "'Who hurt you?'\nMy own expectations",
+      "author" : null,
+      "link" : null
+    },
+    { 
+      "text" : "Don't expect the same in return, it will always hurt you.",
+      "author" : "@the_darkstories",
+      "link" : "the_darkstories"
+    },
+    { 
+      "text" : "Acceptance is peace",
+      "author" : "@wetheurban",
+      "link" : "wetheurban"
+    },
+    { 
+      "text" : "Say it with me:\nThis year, I am unlocking profound levels of peace, abundance, and joy I didn't even know possible by any and all means necessary.",
+      "author" : "@wetheurban",
+      "link" : "wetheurban"
+    },
+    { 
+      "text" : "Don't compare your past with your present.",
+      "author" : null,
+      "link" : null
+    },
+    { 
+      "text" : "One of the more underrated ingredients for having a good life is a clear conscious.",
+      "author" : "@thirdeyethoughts",
+      "link" : "thirdeyethoughts"
+    },
+    { 
+      "text" : "Get back up when you fail. Celebrate behaving like a human.",
+      "author" : "Marcus Aurelius, @dailystoic",
+      "link" : "dailystoic"
+    },
+    { 
+      "text" : "The right choice isn't always easy.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Self love is the best love.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "I am not perfect, but You make me perfect and beautiful in every way.\n Thank you!",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "Thank you for not forcing me to dim my light, instead you stand next to me and together we shine bright.",
+      "author" : "Jess Baird, @wordsofajay",
+      "link" : "wordsofajay"
+    },
+    { 
+      "text" : "It took me a longe time to accept that I had to be loved the wrong way in order to know what being love the rigth way feels like.",
+      "author" : "Jess Baird, @wordsofajay",
+      "link" : "wordsofajay"
+    },
+    { 
+      "text" : "Sweet man, thank you for trusting me enough to allow me inside your home-shaped heart.",
+      "author" : "Jess Baird, @wordsofajay",
+      "link" : "wordsofajay"
+    },
+    { 
+      "text" : "",
+      "author" : "@r.h.sin",
+      "link" : "r.h.sin"
+    },
+    { 
+      "text" : "Thinking about a future where we are together brings a [huge] smile to my face. I believe in our connection. I look forward to the possibility of building a life together.",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "The best investment is yourself",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Your direction matters more than your speed.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Protect your peace.",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "\"Time is a healer, life is a teacher\"",
+      "author" : "Ferry Corsten, Morgan Page, Cara Melín\n\"Wounded\"",
+      "link" : null
+    },
+    { 
+      "text" : "\"Whenever I'm alone with you, You make me feel like I am whole again\""
+      "author" : "The Cure, \"Love Song\"",
+      "link" : null
+    },
+    { 
+      "text" : "I have so much of you in my heart",
+      "author" : "John Keats\n@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "I love seeing you get excited about the things You love\n♥️",
+      "author" : "@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "You make my heart smile\n🙂",
+      "author" : "@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "How to stop time: kiss\nHow to travel in time: read\nHow to escape time: music\nHow to feel timeL write\nHow to release time: breathe",
+      "author" : "@touchmysense_",
+      "link" : "touchmysense_"
+    },
+    { 
+      "text" : "Growth isn't linear",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "True happiness comes from within.",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "Everyone's journey is different",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+    { 
+      "text" : "Smiles can spread joy to others",
+      "author" : "@poetscafe",
+      "link" : "poetscafe"
+    },
+        { 
+      "text" : "Every journey is one step at a time",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Enjoy where you are",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+    { 
+      "text" : "Growth happens even when you don't see it",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+        { 
+      "text" : "Everything falls into place",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+        { 
+      "text" : "If it's meant for you, it will find you",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+        { 
+      "text" : "Flow more than you force",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    },
+            { 
+      "text" : "Half the journey is the first step",
+      "author" : "@findingpoeta",
+      "link" : "findingpoeta"
+    }
+  ]
+}
